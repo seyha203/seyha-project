@@ -75,3 +75,8 @@ CSS framework [Tailwindcss](https://www.youtube.com/)
 ## Image dashboard
 
 ![cat](A4%20-%201.png)
+
+
+## Badge
+
+[i[Button](https://img.shields.io/badge/Visit-Website-blue)](https://www.youtube.com/)
